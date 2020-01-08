@@ -3,18 +3,17 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZTEST_CHECKIN_GREET</NAME>
-    <DBAPL>S</DBAPL>
-    <SUBC>1</SUBC>
-    <FIXPT>X</FIXPT>
-    <LDBNAME>D$S</LDBNAME>
+    <NAME>ZTEST_CHECKIN_INCLUDE</NAME>
+    <SUBC>I</SUBC>
+    <RSTAT>T</RSTAT>
+    <RLOAD>E</RLOAD>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Program ZTEST_CHECKIN_GREET</ENTRY>
-     <LENGTH>27</LENGTH>
+     <ENTRY>Program ZTEST_CHECKIN_INCLUDE</ENTRY>
+     <LENGTH>29</LENGTH>
     </item>
    </TPOOL>
   </asx:values>

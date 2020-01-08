@@ -5,6 +5,8 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_CHECKIN_GREET.
 
+INCLUDE ztest_checkin_include.
+
 END-OF-SELECTION.
 
   NEW zcl_checkin_test( )->greet( ).
